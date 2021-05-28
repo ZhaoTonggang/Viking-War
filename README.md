@@ -1,2 +1,2 @@
-# Viking-War
-https://vw.heheda.top
+# weijingGame
+维京人战争
